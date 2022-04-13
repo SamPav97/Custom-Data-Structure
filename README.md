@@ -1,5 +1,5 @@
 # Custom-Data-Structure
-In this project I created a a custom data structure, which has similar functionalities to the Python List. I also created unit tests for each of its functionalities.
+In this project I used Test-driven development to create a custom data structure, which has similar functionalities to the Python List.
 
 
 It will have the same functionalities as the original List, but will accept only integers as values:
